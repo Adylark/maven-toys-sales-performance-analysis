@@ -1,4 +1,8 @@
 # Maven Toys Sales Performance Analysis
+<img width="1435" height="805" alt="Sales Performance" src="https://github.com/user-attachments/assets/00ae42d3-b937-4e84-98ca-b2f8d9dc1ab3" />
+<img width="1439" height="805" alt="Store Overview" src="https://github.com/user-attachments/assets/70f341cb-2b13-4935-95aa-a6efcf872ea7" />
+
+
 
 ## 📊 Project Overview
 This project analyzes the sales performance, profitability, and inventory efficiency of a retail company (Maven Toys) using Power BI.
