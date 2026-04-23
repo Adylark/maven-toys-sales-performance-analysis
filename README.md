@@ -40,11 +40,12 @@ The company faces challenges in:
 ---
 
 ##  Data Processing Steps
-1. Data Injection (because raw data was clean)
-2. Data Cleaning (handling missing values, formatting)
-3. Data Transformation using Power Query
-4. Building DAX Measures (Revenue, Profit, Inventory Metrics)
-5. Creating Dashboard & Visualizations
+1. Staging Data
+2. Entity Relationship Diagram
+3. Data Injection (because raw data was clean)
+4. Data Cleaning (handling missing values, formatting)
+5. Building DAX Measures (Revenue, Profit, Inventory Metrics)
+6. Creating Dashboard & Visualizations
 
 ---
 
@@ -104,10 +105,10 @@ The company faces challenges in:
 ---
 
 ## Project Files
-- `dashboard/` → Power BI file
-- `presentation/` → Final presentation slides
-- `data/` → Dataset (raw & cleaned)
-- `images/` → Dashboard screenshots
+- `dashboard/` -> Power BI file
+- `presentation/` -> Final presentation slides
+- `data/` -> Dataset
+- `images/` -> Dashboard screenshots
 
 ---
 
