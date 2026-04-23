@@ -97,7 +97,8 @@ The company faces challenges in:
 ---
 
 ## Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
+[maven toys.pdf](https://github.com/user-attachments/files/26991049/maven.toys.pdf)
+
 
 ---
 
