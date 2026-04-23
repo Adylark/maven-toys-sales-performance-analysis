@@ -4,14 +4,14 @@
 
 
 
-## 📊 Project Overview
-This project analyzes the sales performance, profitability, and inventory efficiency of a retail company (Maven Toys) using Power BI.
+## Project Overview
+This project analyzes the sales performance, profitability, and inventory efficiency of a retail company (Maven Toys) using PostgreSQL -> Python -> Power BI.
 
 The goal is to transform raw transactional and inventory data into actionable business insights that support decision-making.
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 The company faces challenges in:
 - Understanding revenue and profit trends
 - Identifying top-performing products and categories
@@ -21,7 +21,7 @@ The company faces challenges in:
 
 ---
 
-## ❓ Analytical Questions
+## Analytical Questions
 1. How does revenue and profit trend over time?
 2. Which product categories contribute the most revenue?
 3. What is the current inventory health across warehouses?
@@ -31,23 +31,24 @@ The company faces challenges in:
 
 ---
 
-## 🛠️ Tools & Technologies
-- Power BI (Data Modeling, DAX, Visualization)
-- Power Query (Data Cleaning & Transformation)
-- Excel / CSV Dataset
+## Tools & Technologies
+- PostgreSQL
+- Python
+- Power BI
+- CSV Dataset
 
 ---
 
-## 🔄 Data Processing Steps
-1. Data Cleaning (handling missing values, formatting)
-2. Data Transformation using Power Query
-3. Creating Data Model (Fact & Dimension tables)
+##  Data Processing Steps
+1. Data Injection (because raw data was clean)
+2. Data Cleaning (handling missing values, formatting)
+3. Data Transformation using Power Query
 4. Building DAX Measures (Revenue, Profit, Inventory Metrics)
 5. Creating Dashboard & Visualizations
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 ### 1. Revenue & Profit Trend
 - Revenue shows consistent growth with seasonal fluctuations
@@ -75,7 +76,7 @@ The company faces challenges in:
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 ### Inventory Optimization
 - Reallocate stock from low-performing warehouses to high-demand locations
@@ -95,12 +96,12 @@ The company faces challenges in:
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 ![Dashboard](images/dashboard_preview.png)
 
 ---
 
-## 📂 Project Files
+## Project Files
 - `dashboard/` → Power BI file
 - `presentation/` → Final presentation slides
 - `data/` → Dataset (raw & cleaned)
@@ -108,6 +109,6 @@ The company faces challenges in:
 
 ---
 
-## 🚀 Author
+## Author
 **Fadhil** – Aspiring Data Analyst  
 Focus: Power BI, SQL, Data Analysis
