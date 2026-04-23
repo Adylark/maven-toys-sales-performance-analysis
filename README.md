@@ -97,7 +97,8 @@ The company faces challenges in:
 ---
 
 ## Dashboard Preview
-[maven toys.pdf](https://github.com/user-attachments/files/26991049/maven.toys.pdf)
+<img width="1440" height="808" alt="Inventory Health" src="https://github.com/user-attachments/assets/14f2477d-e3f6-4237-ad4e-87b07105583a" />
+
 
 
 ---
